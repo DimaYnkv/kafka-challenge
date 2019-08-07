@@ -30,16 +30,12 @@ public class ProducerTest {
         String num5 = "c:/kafka_2.12-2.2.0/challenge/numeric5.json";
         String num6 = "c:/kafka_2.12-2.2.0/challenge/numeric6.json";
 
-        produceTestFiles(num1,"cellwise.kafka.challenge_1", 1);
-        produceTestFiles(num2,"cellwise.kafka.challenge_2", 1);
-        produceTestFiles(num3,"cellwise.kafka.challenge_33", 1);
-        produceTestFiles(num4,"cellwise.kafka.challenge_4", 1);
-        produceTestFiles(num5,"cellwise.kafka.challenge_5", 1);
-        produceTestFiles(num6,"cellwise.kafka.challenge_6", 1);
-
-//        produceTestFiles(num1,1);
-//        produceTestFiles(num1,1);
-//        produceTestFiles(num1,1);
+//         produceTestFiles(num1,"cellwise.kafka.challenge_1", 1);
+//         produceTestFiles(num2,"cellwise.kafka.challenge_2", 1);
+//         produceTestFiles(num3,"cellwise.kafka.challenge_33", 1);
+//         produceTestFiles(num4,"cellwise.kafka.challenge_4", 1);
+//         produceTestFiles(num5,"cellwise.kafka.challenge_5", 1);
+//         produceTestFiles(num6,"cellwise.kafka.challenge_6", 1);
     }
 
 
